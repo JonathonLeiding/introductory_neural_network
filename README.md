@@ -72,5 +72,22 @@ To go beyond simply following along, I implemented several enhancements and lear
 
 ---
 
-## 📁 File Structure
+## 🙌 Acknowledgments
+
+Thanks to [John Elder](https://www.youtube.com/@Codemycom) for his clear and approachable tutorials that inspired this project.
+
+---
+
+## 📌 Future Ideas
+
+- Confusion matrix visualization
+- Save/load model with `torch.save()`
+- Add command-line interface (CLI) or streamlit dashboard
+
+---
+
+## 🧑‍💻 Author
+
+**Your Name**  
+[Jonathon Leiding]([(https://github.com/JonathonLeiding])
 
